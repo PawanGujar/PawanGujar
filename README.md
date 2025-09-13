@@ -21,11 +21,11 @@
 **Tools & Platforms:** Git, GitHub, IntelliJ IDEA, Android Studio, Linux CLI, Packet Tracer, MultiSim
 
 **Soft Skills:**
-- • Problem-Solving & Analytical Thinking
-- • Collaboration & Teamwork
-- • Adaptability & Quick Learning
-- • Communication & Conflict Resolution
-- • Responsibility under Pressure 
+-  Problem-Solving & Analytical Thinking
+-  Collaboration & Teamwork
+-  Adaptability & Quick Learning
+-  Communication & Conflict Resolution
+-  Responsibility under Pressure 
 
 ---
 
@@ -47,14 +47,14 @@ _A cleaner, enhanced version of the classic editor._
 
 ## 📜 Certifications
 
-- • Computer Application & Office Professional - NAVTTC
-- • Web App Development in ASP.NET, PHP - CyberVision International
-- • Java Full Stack Developer - Board Infinity
-- • Introduction to Software Development - Amazon
-- • Google Cybersecurity Professional Certificate - Google
-- • Introduction to Cloud Computing - IBM
-- • Linux Tools for Developers - Linux Foundation
-- • Ethical Hacking Essentials - EC-Council
+-  Computer Application & Office Professional - NAVTTC
+-  Web App Development in ASP.NET, PHP - CyberVision International
+-  Java Full Stack Developer - Board Infinity
+-  Introduction to Software Development - Amazon
+-  Google Cybersecurity Professional Certificate - Google
+-  Introduction to Cloud Computing - IBM
+-  Linux Tools for Developers - Linux Foundation
+-  Ethical Hacking Essentials - EC-Council
 
 ---
 
