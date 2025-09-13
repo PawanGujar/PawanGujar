@@ -15,10 +15,10 @@
 
 ## 🛠️ Skills
 **Technical Skills:**
-**Languages:** Java, JavaScript, Dart, Python, PHP, C/C++
-**Frameworks/Tools:** Spring, Flutter, Swing
-**Databases:** ySQL, SQL (with schema design)
-**Tools & Platforms:** Git, GitHub, IntelliJ IDEA, Android Studio, Linux CLI, Packet Tracer, MultiSim
+- **Languages:** Java, JavaScript, Dart, Python, PHP, C/C++
+- **Frameworks/Tools:** Spring, Flutter, Swing
+- **Databases:** ySQL, SQL (with schema design)
+- **Tools & Platforms:** Git, GitHub, IntelliJ IDEA, Android Studio, Linux CLI, Packet Tracer, MultiSim
 
 **Soft Skills:**
 -  Problem-Solving & Analytical Thinking
