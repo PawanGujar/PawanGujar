@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎯 Junior Software Engineer with a passion for Java and backend development
+- 🎯 Junior Software Engineer with a passion for Java and backend development (Full Stack Developement)
 - 💻 I love turning ideas into working applications
 - 📘 Currently exploring Microservices, Spring Boot & Cloud
 - 🤝 Open to collaboration and learning
@@ -14,11 +14,18 @@
 ---
 
 ## 🛠️ Skills
+**Technical Skills:**
+**Languages:** Java, JavaScript, Dart, Python, PHP, C/C++
+**Frameworks/Tools:** Spring, Flutter, Swing
+**Databases:** ySQL, SQL (with schema design)
+**Tools & Platforms:** Git, GitHub, IntelliJ IDEA, Android Studio, Linux CLI, Packet Tracer, MultiSim
 
-**Languages:** Java, JavaScript, Dart, Python, PHP, C/C++, SQL  
-**Frameworks/Tools:** Spring, Flutter, Git, Android Studio, VS Code  
-**Databases:** MySQL, basic DB design  
-**OS & Tools:** Linux CLI, Windows, IntelliJ, Packet Tracer
+**Soft Skills:**
+• Problem-Solving & Analytical Thinking
+• Collaboration & Teamwork
+• Adaptability & Quick Learning
+• Communication & Conflict Resolution
+• Responsibility under Pressure 
 
 ---
 
@@ -40,16 +47,20 @@ _A cleaner, enhanced version of the classic editor._
 
 ## 📜 Certifications
 
-- Java Full Stack Developer – Board Infinity  
-- Cybersecurity – Google (Coursera)  
-- Cloud Computing – IBM  
-- Gen AI – DeepLearning.AI  
+ • Computer Application & Office Professional - NAVTTC
+ • Web App Development in ASP.NET, PHP - CyberVision International
+ • Java Full Stack Developer - Board Infinity
+ • Introduction to Software Development - Amazon
+ • Google Cybersecurity Professional Certificate - Google
+ • Introduction to Cloud Computing - IBM
+ • Linux Tools for Developers - Linux Foundation
+ • Ethical Hacking Essentials - EC-Council
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pawangujar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pawangujar)
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/PawanGujar)
 
 ---
