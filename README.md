@@ -15,9 +15,9 @@
 
 ## 🛠️ Skills
 **Technical Skills:**
-- **Languages:** Java, JavaScript, Dart, Python, PHP, C/C++
+- **Languages:** Java (Strong Core Concepts and GUI Desktop Apps), JavaScript, Python, PHP, Dart, C/C++
 - **Frameworks/Tools:** Spring, Flutter, Swing
-- **Databases:** ySQL, SQL (with schema design)
+- **Databases:** MySQL, SQL (with schema design)
 - **Tools & Platforms:** Git, GitHub, IntelliJ IDEA, Android Studio, Linux CLI, Packet Tracer, MultiSim
 
 **Soft Skills:**
@@ -31,17 +31,20 @@
 
 ## 📂 Projects
 
-🔹 **University Attendance System** (Java, MySQL)  
+🔹 **University Record And Attendance System** (Java, MySQL)  
 _A GUI-based tracker with authentication and reporting._
 
 🔹 **LMS & Inventory Systems** (PHP, JS, MySQL)  
 _Full-stack applications for academic and asset management._
 
-🔹 **Flutter Mini Apps**  
-_Calculator, Task Manager, and more — mobile app learning suite._
+🔹 **Shop Khata System**  
+_A modern, responsive web app to manage grocery items, calculate prices based on custom quantities (e.g., grams, fractions), and maintain a shopping cart with persistent localStorage._
 
 🔹 **Notepad Clone** (Java)  
 _A cleaner, enhanced version of the classic editor._
+
+🔹 **Music Player** (Java)  
+_A Smooth, best version of Music players, use and experience the flow._
 
 ---
 
