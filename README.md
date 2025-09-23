@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Pawan Gujar
 
-🎓 A passionate Computer Science graduate and aspiring Software Developer from Pakistan, eager to build scalable systems and solve real-world problems.
+🎓 A passionate Information Technology graduate and aspiring Software Developer from Pakistan, eager to build scalable systems and solve real-world problems.
 
 ---
 
